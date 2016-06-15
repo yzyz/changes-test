@@ -1,1 +1,2 @@
-bazel.targets: moo
+bazel.targets:
+  - //moo/...
