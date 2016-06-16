@@ -1,2 +1,2 @@
 bazel.targets:
-  - //moo/...
+  - ...:all
