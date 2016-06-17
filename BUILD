@@ -1,4 +1,4 @@
-hello_test(
+sh_test(
     name = "hellotest",
-    srcs = ["//moo/hello.sh"],
+    srcs = ["moo/hello.sh"],
 )
