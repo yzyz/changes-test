@@ -1,2 +1,2 @@
-bazel.targets:
-  - ...:all
+# bazel.targets:
+#   - ...:all
