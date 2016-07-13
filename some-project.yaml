@@ -1,2 +1,9 @@
-# bazel.targets:
-#   - ...:all
+bazel.targets:
+  - ...:all
+
+bazel.dependencies:
+  encap:
+    - gcc-4.8.1
+  apt:
+    - another-thing
+    - yet-another-thing
