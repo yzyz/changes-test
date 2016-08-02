@@ -1,7 +1,3 @@
 bazel.targets:
   - ...:all
 
-bazel.dependencies:
-  apt:
-    - another-thing
-    - yet-another-thing
